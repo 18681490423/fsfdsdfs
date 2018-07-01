@@ -6,7 +6,7 @@ class TestCase:
         assert 1
 
     def test_assert3(self):
-        assert 1
+        assert 0
 
     def test_assert4(self):
-        assert 1
+        assert 0
